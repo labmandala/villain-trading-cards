@@ -1,3 +1,13 @@
+<h1>Female Supervillain Trading Cards App - Template Version</h1>
+
+<p>An interactive female supervillain trading card app where users can collect cards, remove cards and create new ones from a database of custom-designed cards of original supervillain female characters.</p>
+
+<This is the template version of the Female Supervillain Trading Card app. Built using Python, Flask, SQL and Jinja.</p>
+
+<img src=villain-app.png />
+
+Play the Game:
+
 # Install Python
 
 Check to see if you already have Python installed on your system by running:
